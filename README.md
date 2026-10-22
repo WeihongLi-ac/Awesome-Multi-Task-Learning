@@ -96,6 +96,8 @@ Feel free to contact me or contribute if you find any interesting paper is missi
 
 ### 2026
 
+* Personalized Task Dependency Graphs for Mitigating Signal Erosion in Multi-Task Recommendation (CIKM, 2026) [[paper](https://arxiv.org/abs/2609.04862)]
+
 * Dataless Weight Disentanglement in Task Arithmetic via Kronecker-Factored Approximate Curvature (ICLR, 2026) [[paper](https://openreview.net/pdf?id=32mrjmaeMP)]
 
 ### 2025
